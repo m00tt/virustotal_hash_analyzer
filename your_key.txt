@@ -1,0 +1,2 @@
+/*your api_key*/
+/*is a premium api_key? (yes/no)*/

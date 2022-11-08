@@ -12,7 +12,7 @@ Install the following python libraries:
 
 ## _Usage steps_
  - You have to create a simple .txt file that contains the list of file hashes (1 item for each line)
- - Run VirusTotal.py
+ - Run `virustotal_hash_analyzer.py`
  - Enter the path of the .txt file containing the hashes list
  - Enter the minimum percentage of positive scans (DEFAULT = ALL)
  - Enter your VirusTotal API_KEY (or write it into first line of your_key.txt file)
